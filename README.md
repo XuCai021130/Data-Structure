@@ -1,8 +1,8 @@
-# Brandeis COSI-21A Data Structure Class Programming Assignments
+# Brandeis COSI-21A Data Structure Class Projects
 
 Welcome to the repository for the projects completed during the Brandeis COSI-21A Data Structure class. This repository showcases the code I developed for four different projects, demonstrating my understanding and implementation of various data structures and algorithms.
 
-## Programming Assignments Included
+## Projects Included
 
 1. **Elevator Simulation**: This project offers a simple simulation of an elevator system. It only moves a person to a floor and then the person will remain on that floor forever. That is, the elevator cannot pick people up from any floor besides the lobby. The building has an series of arrays of floor to store person. 
 
