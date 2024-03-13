@@ -1,6 +1,6 @@
 # Data Structure & Algorithms Projects
 
-Welcome to the repository for the projects completed during the Data Structure class. This repository showcases the code I developed for four different projects, demonstrating my understanding and implementation of various data structures and algorithms.
+Welcome to the repository for the projects completed during the Data Structure class. This repository showcases the java code I developed for four different projects, demonstrating my understanding and implementation of various data structures and algorithms.
 
 ## Projects Included
 
